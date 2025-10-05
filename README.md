@@ -22,10 +22,11 @@
 <div align= "left">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡About Me </h2>    
 <blockquote> 엉덩이가 무거운 개발자, 박성근입니다.  </blockquote>
-<img src="https://github.com/user-attachments/assets/a82f6ebc-ba8f-4e5a-a0cf-95ab935fd876"  width="400" height="300"/>
+
 <ul>
 <li>
 <h4>삼성 청년 SW · AI 아카데미 12기</h4>
+<img src="https://github.com/user-attachments/assets/a82f6ebc-ba8f-4e5a-a0cf-95ab935fd876"  width="400" height="300"/>
 <p>🏅고용노동부 장관상 수상 - 취우수 수료생 (상위 0.5%)</p>
 <p>2024.07 ~ 2025.06</p>
 </li>
